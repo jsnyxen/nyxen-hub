@@ -2,6 +2,9 @@ local BaseUrl = "https://raw.githubusercontent.com/jsnyxen/nyxen-hub/main/games/
 
 local Games = {
     [116497287371701] = "karinderya.lua",
+
+    [17625359962] = "rivals.lua",
+    [117398147513099] = "rivals.lua",
 }
 
 local GameFile = Games[game.PlaceId]
